@@ -1,0 +1,7 @@
+.List_student {
+    background-color: rgb(246, 181, 96);
+    border: 1px solid grey;
+    padding: .3125rem;
+    margin-bottom: .25rem;
+    border-radius: .25rem;
+}

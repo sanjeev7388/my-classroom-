@@ -1,0 +1,48 @@
+.card {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+    width: 300px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+
+h3 {
+    margin-bottom: 5px;
+}
+
+p {
+    margin: 0;
+}
+
+.Number-Student-info {
+    background-color: beige;
+    padding: .25rem;
+    border: .0625rem solid gray;
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+}
+
+.btn-primary-Add {
+    background: rgb(170, 244, 59);
+    color: black;
+}
+
+.btn-primary-remove {
+    background: rgb(238, 122, 51);
+    color: black;
+}
+
+.Button-container {
+    padding-top: .625rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+.Number-Student-list{
+    color: green;
+    font-size: .625rem;
+    font-weight: 900;
+    align-items: center;
+    display: flex;
+}
